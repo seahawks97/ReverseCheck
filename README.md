@@ -1,4 +1,5 @@
 # ReverseCheck v3.0
+### What It Does
 This program checks to see if a number you type is a palindrome (can be read the same forwards and backwards). It takes the higher of the two numbers, and tells if it is evenly divisble by the other. If it's not, it tells the number of times it is divisible with the remainder.
 ### Use It
 Download *new_checker.py*, run it, and type a number. Type -1 to quit.
